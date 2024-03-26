@@ -34,3 +34,5 @@ public class MainActivity extends AppCompatActivity { //classe q representa a te
 // função onpause, quando uma tela entra na frente de outra, tem q ser pausada a anterior (existe onstart, etc)
 // operação de casting, transformar o obj de um tipo p outro (ex: Button b = (Button) v;) ( ex2: float a = 1.5f; int b = (int) a;)
 // startActivityforResult = executa e aguarda o resultado da intent (ex: tirar uma foto)
+
+//...
