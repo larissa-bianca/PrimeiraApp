@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primeira App</string>
+    <string name="et_digiteaqui">Digite Algo</string>
+    <string name="etn_enviar">Enviar</string>
+</resources>
